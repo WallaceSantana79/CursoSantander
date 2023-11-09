@@ -19,7 +19,7 @@ Foi usado a versão 19.0.2 do JDK.
 * **Eu** - *Aluno do Curso* - [WallaceSantana79](https://github.com/WallaceSantana79)
 * **Ada / Let's Code** - *Donos do Curso* - [Letscode](https://github.com/Letscode-br)
 
-Aqui está a lista dos colaboradores [colaboradores](https://github.com/WallaceSantana79/CursoSantander/colaboradores)
+Aqui está a lista dos colaboradores [colaboradores](https://github.com/WallaceSantana79/CursoSantander/graphs/contributors)
 
 
 ## 🎁 Expressões de gratidão
