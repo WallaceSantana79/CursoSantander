@@ -4,7 +4,7 @@ Um repositório feito para guardar as atividades realizadas pelas aulas oferecid
 
 ## 🛠️ Construído com
 
-* <a href="//https://docs.oracle.com/en/java/"><img  src="https://camo.githubusercontent.com/d42f44eed1ef1a3bf389d7a7434ef4b06822b2218820d3ccf8bb65611c7b3f68/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f667265652d6a6176612d36302d313137343935332e706e67" alt="JAVA" width="50" height="50">
+* <a href="//docs.oracle.com/en/java/"><img  src="https://camo.githubusercontent.com/d42f44eed1ef1a3bf389d7a7434ef4b06822b2218820d3ccf8bb65611c7b3f68/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f667265652d6a6176612d36302d313137343935332e706e67" alt="JAVA" width="50" height="50">
 
 ## 🖇️ Colaboração
 
