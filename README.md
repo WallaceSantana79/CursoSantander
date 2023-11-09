@@ -1,7 +1,6 @@
-#Curso Digital: GIT
+#*Atividades do Curso Digital oferecido pelo Santander Coders 2023*
 
-##Salvando alterações no GIT
-* comando git push
-* comando git pull
-* comando git fetch
+##Atividades do Curso Digital Santander
+Este repositório contém as atividades realizadas no curso digital Santander de Introdução Desenvolvimento Back End. Todas as atividades são escritas na linguagem de programação Java. 
 
+![JAVA](https://s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg)
