@@ -1,3 +1,4 @@
+package introducaoAJava;
 public class aulaboolean {
     public static void main(String[] args) {
         boolean fimDeSemana = true;

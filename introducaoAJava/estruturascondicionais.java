@@ -1,3 +1,4 @@
+package introducaoAJava;
 import java.util.Scanner;
 
 public class estruturascondicionais {
