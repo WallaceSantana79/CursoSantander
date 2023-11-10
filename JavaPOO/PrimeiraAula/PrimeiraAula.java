@@ -10,6 +10,5 @@ public class PrimeiraAula {
         //int -2b a 2b
         //long -9t a 9t
         System.out.println(variavelByte);
-        
     }
 }

@@ -1,4 +1,4 @@
-package PrimeiraAula.SegundaAula;
+package SegundaAula;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +11,6 @@ public class Main {
         cachorro1.tamanhoDoRabo = 5;
 
         System.out.println(cachorro1);
-        
     }
     
 }
