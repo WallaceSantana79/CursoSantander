@@ -1,6 +1,6 @@
-package JavaPOO;
+package PrimeiraAula;
 
-public class main {
+public class PrimeiraAula {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
@@ -12,5 +12,4 @@ public class main {
         System.out.println(variavelByte);
         
     }
-    
 }
