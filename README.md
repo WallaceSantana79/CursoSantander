@@ -1,6 +1,6 @@
 # Curso Corders 2023 Santander
 
-Um repositório feito para guardar as atividades realizadas pelas aulas oferecidas no curso introdutório de back-end da Lets Code br oferecido pelo Santander no Coders 2023. 
+Um repositório feito para guardar as atividades realizadas pelas aulas oferecidas no curso introdutório de back-end da Lets Code br oferecido pela ADA no Santander Coders 2023.
 
 ## 🛠️ Construído com
 
